@@ -15,3 +15,6 @@
 ==> npm install @tabler/angular-styles
 
 ==> npm install @tabler/angular-core
+
+
+# License: MIT
