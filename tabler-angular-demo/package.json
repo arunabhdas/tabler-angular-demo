@@ -20,8 +20,12 @@
     "@angular/platform-browser": "~7.0.0",
     "@angular/platform-browser-dynamic": "~7.0.0",
     "@angular/router": "~7.0.0",
+    "@tabler/angular-core": "^0.7.3",
+    "@tabler/angular-styles": "^0.7.3",
+    "@tabler/angular-ui": "^0.7.3",
     "core-js": "^2.5.4",
     "rxjs": "~6.3.3",
+    "tabler-ui": "0.0.32",
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
