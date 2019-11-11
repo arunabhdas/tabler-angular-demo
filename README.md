@@ -25,6 +25,12 @@ $ npm install -g npm-check-updates
 $ npm-check-updates -u
 $ npm install
 
+## Update typescript to latest
+
+==> npm i --save-dev typescript@latest
+
+==> ng serve --open 
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
