@@ -28,7 +28,10 @@ $ npm install
 ## Update typescript to latest
 
 ==> npm i --save-dev typescript@latest
-
+==> install typescript@" >=3.6.0 and <3.8.0" --save-dev --save-exact
+Delete node_modules folder
+Run yarn install or npm install
+npm install -g @angular-cli/latest
 ==> ng serve --open 
 
 ## Development server
